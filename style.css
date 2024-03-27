@@ -121,9 +121,6 @@ nav ul li a:hover::after{
     transition: 0.2s ease-in-out;
 }
 
-
-                                  /* About Section */
-
 .img-box img{
     opacity: 0.6;
     height:400px;
